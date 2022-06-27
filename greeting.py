@@ -1,1 +1,3 @@
-name = input('Write your name: ')
+name = input('Please, write your name: ')
+
+print(f'Hello, {name}')
